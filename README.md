@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @N0OGS
+- 4th year Computer Engineering Student in DLSU
+- Thesis: Dental trainer Glove integrated with VR
 - 👀 I’m interested in coding in software and robotics
 - 🌱 I’m currently learning advanced java
 - 💞️ I’m looking to collaborate on coding projects of any type, best if with physical output
